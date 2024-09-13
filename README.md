@@ -1,6 +1,6 @@
 # Minimal Expo Setup
 
-<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 5px;">
+<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 10px;">
   <a aria-label="Expo version" href="https://www.npmjs.com/package/expo" target="_blank" style="text-decoration: none;">
     <img alt="Expo version" src="https://img.shields.io/badge/Expo-51.0.28-white?style=flat-square&logo=expo" />
   </a>
