@@ -1,11 +1,24 @@
 # Minimal Expo Setup
 
-<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 10px;">  
+<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 5px;">
+  <a aria-label="Expo version" href="https://www.npmjs.com/package/expo" target="_blank" style="text-decoration: none;">
+    <img alt="Expo version" src="https://img.shields.io/badge/Expo-51.0.28-white?style=flat-square&logo=expo" />
+  </a>
+  <a aria-label="React Native version" href="https://www.npmjs.com/package/react-native" target="_blank" style="text-decoration: none;">
     <img alt="React Native version" src="https://img.shields.io/badge/React%20Native-0.74.5-blue?style=flat-square&logo=react" />
+  </a>
+  <a aria-label="React version" href="https://www.npmjs.com/package/react" target="_blank" style="text-decoration: none;">
     <img alt="React version" src="https://img.shields.io/badge/React-18.2.0-blue?style=flat-square&logo=react" />
+  </a>
+  <a aria-label="Expo Router version" href="https://www.npmjs.com/package/expo-router" target="_blank" style="text-decoration: none;">
     <img alt="Expo Router version" src="https://img.shields.io/badge/Expo%20Router-3.5.23-white?style=flat-square&logo=expo" />
+  </a>
+  <a aria-label="NativeWind version" href="https://www.npmjs.com/package/nativewind" target="_blank" style="text-decoration: none;">
     <img alt="NativeWind version" src="https://img.shields.io/badge/NativeWind-2.0.11-blue?style=flat-square&logo=tailwindcss" />
-    <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square" />  
+  </a>
+  <a aria-label="License" href="https://opensource.org/licenses/MIT" target="_blank" style="text-decoration: none;">
+    <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square" />
+  </a>
 </p>
 
 Este es un template minimalista para iniciar proyectos de React Native utilizando Expo, diseñado para ofrecer una base sólida y eficiente para el desarrollo de aplicaciones móviles.
