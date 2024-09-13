@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "minimal-expo-setup",
-    "slug": "minimal-expo-setup",
+    "name": "limite-shop",
+    "slug": "limite-shop",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
-    "scheme": "com.atiladev.minimalexposetup",
+    "scheme": "com.atiladev.limiteshop",
     "userInterfaceStyle": "light",
     "splash": {
       "image": "./assets/splash.png",
