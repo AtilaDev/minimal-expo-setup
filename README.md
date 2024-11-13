@@ -13,10 +13,10 @@ Este es un template minimalista para iniciar proyectos de React Native utilizand
 
 ## Características Principales
 
-- Basado en Expo 51
-- Utiliza React Native 0.74.5
+- Basado en Expo 52.0.4
+- Utiliza React Native 0.76.1
 - Soporte para TypeScript
-- Implementación de Expo Router para navegación
+- Implementación de Expo Router para la navegación
 - Integración con NativeWind para estilos
 - Configuración de pruebas con Jest
 
