@@ -1,10 +1,10 @@
-# Minimal Expo Setup
+# Minimal Expo Setup + NativeWind
 
 <p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 10px;">
-    <img alt="Expo version" src="https://img.shields.io/badge/Expo-51.0.28-white?style=flat-square&logo=expo" />
-    <img alt="React Native version" src="https://img.shields.io/badge/React%20Native-0.74.5-blue?style=flat-square&logo=react" />
-    <img alt="React version" src="https://img.shields.io/badge/React-18.2.0-blue?style=flat-square&logo=react" />
-    <img alt="Expo Router version" src="https://img.shields.io/badge/Expo%20Router-3.5.23-white?style=flat-square&logo=expo" />
+    <img alt="Expo version" src="https://img.shields.io/badge/Expo-52.0.17-white?style=flat-square&logo=expo" />
+    <img alt="React Native version" src="https://img.shields.io/badge/React%20Native-0.76.3-blue?style=flat-square&logo=react" />
+    <img alt="React version" src="https://img.shields.io/badge/React-18.3.1-blue?style=flat-square&logo=react" />
+    <img alt="Expo Router version" src="https://img.shields.io/badge/Expo%20Router-4.0.11-white?style=flat-square&logo=expo" />
     <img alt="NativeWind version" src="https://img.shields.io/badge/NativeWind-2.0.11-blue?style=flat-square&logo=tailwindcss" />  
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square" />  
 </p>
@@ -13,8 +13,8 @@ Este es un template minimalista para iniciar proyectos de React Native utilizand
 
 ## Características Principales
 
-- Basado en Expo 52.0.4
-- Utiliza React Native 0.76.1
+- Basado en Expo 52.0.17
+- Utiliza React Native 0.76.3
 - Soporte para TypeScript
 - Implementación de Expo Router para la navegación
 - Integración con NativeWind para estilos
@@ -24,10 +24,10 @@ Este es un template minimalista para iniciar proyectos de React Native utilizand
 
 ### Producción
 
-- [Expo](https://docs.expo.dev/) (v51.0.28): Framework y plataforma para aplicaciones React universales.
-- [React](https://reactjs.org/) (v18.2.0): Biblioteca para construir interfaces de usuario.
-- [React Native](https://reactnative.dev/) (v0.74.5): Framework para desarrollar aplicaciones nativas con React.
-- [Expo Router](https://docs.expo.dev/router/introduction/) (v3.5.23): Sistema de enrutamiento basado en archivos para Expo.
+- [Expo](https://docs.expo.dev/) (v52.0.17): Framework y plataforma para aplicaciones React universales.
+- [React](https://reactjs.org/) (v18.3.1): Biblioteca para construir interfaces de usuario.
+- [React Native](https://reactnative.dev/) (v0.76.3): Framework para desarrollar aplicaciones nativas con React.
+- [Expo Router](https://docs.expo.dev/router/introduction/) (v4.0.11): Sistema de enrutamiento basado en archivos para Expo.
 - [NativeWind](https://www.nativewind.dev/) (v2.0.11): Utilidad de CSS-in-JS que trae Tailwind CSS a React Native.
 
 ### Desarrollo
@@ -42,27 +42,13 @@ Este es un template minimalista para iniciar proyectos de React Native utilizand
 2. Instala las dependencias usando tu gestor de paquetes preferido:
 
    ```bash
-   # Usando npm
-   npm install
-
-   # Usando yarn
-   yarn install
-
-   # Usando pnpm
    pnpm install
    ```
 
 3. Inicia el proyecto:
 
    ```bash
-   # Usando npm
-   npm start
 
-   # Usando yarn
-   yarn start
-
-   # Usando pnpm
-   pnpm start
    ```
 
 ## Scripts Disponibles
@@ -79,19 +65,8 @@ Puedes usar cualquiera de estos gestores de paquetes (npm, yarn, o pnpm) para ej
 Ejemplo de uso:
 
 ```bash
-# Usando npm
-npm run android
-
-# Usando yarn
-yarn android
-
-# Usando pnpm
 pnpm android
 ```
-
-## Contribución
-
-Las contribuciones son bienvenidas. Por favor, abre un issue o realiza un pull request para sugerir cambios o mejoras.
 
 ## Licencia
 
