@@ -9,7 +9,7 @@
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square" />  
 </p>
 
-Este es un template minimalista para iniciar proyectos de React Native utilizando Expo, diseñado para ofrecer una base sólida y eficiente para el desarrollo de aplicaciones móviles.
+Este es un template minimalista para iniciar proyectos de React Native utilizando Expo y NativeWind.
 
 ## Características Principales
 
@@ -42,31 +42,14 @@ Este es un template minimalista para iniciar proyectos de React Native utilizand
 2. Instala las dependencias usando tu gestor de paquetes preferido:
 
    ```bash
-   pnpm install
+    pnpm install
    ```
 
 3. Inicia el proyecto:
 
    ```bash
-
+    pnpm start
    ```
-
-## Scripts Disponibles
-
-Puedes usar cualquiera de estos gestores de paquetes (npm, yarn, o pnpm) para ejecutar los siguientes scripts:
-
-- `start`: Inicia el servidor de desarrollo de Expo.
-- `android`: Inicia la aplicación en un emulador/dispositivo Android.
-- `ios`: Inicia la aplicación en un simulador/dispositivo iOS.
-- `web`: Inicia la aplicación en modo web.
-- `test`: Ejecuta las pruebas con Jest en modo watch.
-- `lint`: Ejecuta el linter para verificar el código.
-
-Ejemplo de uso:
-
-```bash
-pnpm android
-```
 
 ## Licencia
 
